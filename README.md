@@ -4,7 +4,7 @@
 The goal for this project is to gather all the best mods & resource packs that would perfectly fit the [Calamity Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072) atmosphere, quality & balance. If you know any other additions that would fit nicely in this collection,[feel free to propose them in comments](https://steamcommunity.com/sharedfiles/filedetails/comments/2825496921) or [on the issues page!](https://github.com/KondiU/Ultimate-Calamity-Mod-Experience/issues)
 
 This project combines the work of many different artists & modders, but is fully maintained by a single person. If you really enjoy it & would want to support the future of it, [you can buy me a small coffee here. I would gladly appreciate it!](https://ko-fi.com/kondiu)
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
 
 ## ❓ [Installation Guide](https://github.com/KondiU/Ultimate-Calamity-Mod-Experience/wiki/Installation-Guide)
 

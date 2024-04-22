@@ -1,0 +1,66 @@
+Added mods:
+-[1.4.4] Slug Town Pets
+-Achievement Mod
+-Atmospheric Lava [1.4.4]
+-Auto Trash
+-Bank Buttons
+-Better Boss Health Bar for 1.4.4+
+-Better Chat
+-Better Chests
+-Better Game UI
+-Boss Bag Glows in Inventory
+-Builder Accessory Hotkeys
+-Calamity Biome Spawners
+-Calamity Decorative Potions
+-Calamity Mod Infernum Mode
+-Calamity Ranger Expansion
+-Calamity: Wrath of the Gods
+-Candy's Server List
+-Catalyst Anti-Tier Lock
+-Census - Town NPC Checklist
+-Concise Mods List
+-Craftable Dungeon Furniture
+-Decorative Potions
+-Dialogue Panel Rework
+-Echo Housing Utilities
+-Emojiverse
+-Enemy Radar Redux
+-Fancy Whips
+-Faster UI
+-Foldering - A Terraria Sorting Mod
+-Guidebook Toggle Buttons
+-Helpful Hotkeys
+-HP Awareness
+-Hunt of the Old God
+-Hypnos in Calamity Mod [1.4.4]
+-InfraSonic
+-IPv6 Multiplayer Support
+-Journey Power Menu Seperated from Inventory
+-Luminance
+-Lures Display Bait
+-Miscellanaria
+-MooMoo's Calamity Yoyo Strings Pack
+-MooMoo's Yoyo Lib
+-More Trophies and Relics [Modded Support]
+-Multiplayer Boss Spectator
+-No More Items Stuck in Blocks
+-Oldgen Terraria Visuals
+-Persistent Summons
+-Pings
+-Roommates
+-Send Images In-game
+-Show the body of bosses in minimap
+-Smarter Cursor
+-Summoner UI (Latest Stable Release)
+-Terraria Ambience
+-Terraria Ambience API
+-True Tooltips
+-Vanilla+ QoL
+-Visual Accessories
+-Wombat's General Improvements
+-zzp198's WeaponOut Lite
+
+Made a new Addons collection with following mods:
+-Calamity: Community Remix
+-Calamity Demutation
+-Calamity Overhaul

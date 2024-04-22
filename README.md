@@ -1,5 +1,5 @@
 # 𝖀𝖑𝖙𝖎𝖒𝖆𝖙𝖊 𝕮𝖆𝖑𝖆𝖒𝖎𝖙𝖞 𝕰𝖝𝖕𝖊𝖗𝖎𝖊𝖓𝖈𝖊
-## Experience Terraria Calamity Mod to the fullest!
+## 👹 Experience Terraria Calamity Mod to the fullest!
 
 The goal for this project is to gather all the best Terraria mods and resource packs that would perfectly fit the [Calamity Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072) atmosphere, quality and balance. If you know any other additions that would fit nicely in this collection, [feel free to propose them in comments](https://steamcommunity.com/sharedfiles/filedetails/comments/2825496921) or [on the issues page!](https://github.com/KondiU/Ultimate-Calamity-Mod-Experience/issues)
 

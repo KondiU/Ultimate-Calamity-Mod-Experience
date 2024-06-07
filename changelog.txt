@@ -1,9 +1,1 @@
-Removed mods:
--Terraria Ambience
--Terraria Ambience API
-
-Added mods:
--Inventory Drag
--Wing Slot Extra
--Calamity Texture Pack Glowmask Fix
--No In-game Credits
+Fixed modpack structure
